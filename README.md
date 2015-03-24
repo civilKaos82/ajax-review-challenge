@@ -14,11 +14,11 @@ We're going to take one of our previous Sinatra apps and **AJAXify** it to pract
 
 ### Release 0: Choose your app
 
-Choose one of the following applications (preferably one you have a basic MVP created)
-1. Craigslist JR
-2. Blog (Anonymous or Multi-User)
-3. Url Shortner
-4. 
+Choose one of the following applications (preferably one you have a basic MVP created):
+
+1. Craigslist JR 
+2. Blog (Anonymous or Multi-User) 
+3. Url Shortner 
 
 ### Release 1: AJAXify it!
 
